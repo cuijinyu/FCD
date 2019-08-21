@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+      "outDir": "./dist/",
+      "sourceMap": false,
+      "noImplicitAny": true,
+      "noImplicitReturns":true,
+      "noImplicitThis": true,
+      "moduleResolution": "node",
+      "declaration": true,
+      "declarationDir": "./types/",
+      "esModuleInterop": true,
+      "experimentalDecorators": true,
+      "target": "es5",
+      "removeComments": true,
+      "jsx": "react",
+      "allowSyntheticDefaultImports": true,
+      "importHelpers": true,
+      "strictNullChecks": true,
+      "allowUmdGlobalAccess": true
+    }
+  }
